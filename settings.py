@@ -1,0 +1,27 @@
+# -------- DATA --------
+INPUT_NUMBER = 8
+
+OUTPUT_NUMBER = 4
+
+# -------- TREE --------
+MINIMAL_TREE_DEPTH = 1
+
+MAXIMUM_TREE_DEPTH = 3
+
+# -------- EVOLUTION --------
+POPULATION = 1000
+
+TOURNSIZE = 3
+
+MATING_PROBABILITY = 0.6
+
+MUTATE_PROBABILITY = 0.05
+
+NUMBER_OF_GENERATIONS = 1000
+
+# -------- SIMUlATION --------
+ENV_NAME = 'LunarLander-v2'
+
+NUMBER_OF_STEPS = 100
+
+VERBOSE = True
